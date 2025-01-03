@@ -23,8 +23,8 @@ http://blueairm.github.io/2023/03/23/Hilbert's%20Nullstellensatz/
 http://blueairm.github.io/
 http://blueairm.github.io/tags/Set-Theory/
 http://blueairm.github.io/tags/Algebraic-Number-Theory/
-http://blueairm.github.io/tags/Algebraic-Geometry/
 http://blueairm.github.io/tags/Sevaral-Complex-Variables/
+http://blueairm.github.io/tags/Algebraic-Geometry/
 http://blueairm.github.io/tags/Notes/
 http://blueairm.github.io/tags/Miscellanies/
 http://blueairm.github.io/tags/Mathematical-Logic/
@@ -33,8 +33,8 @@ http://blueairm.github.io/categories/Set-Theory/
 http://blueairm.github.io/categories/Algebraic-Number-Theory/
 http://blueairm.github.io/categories/Sevaral-Complex-Variables/
 http://blueairm.github.io/categories/Notes/
-http://blueairm.github.io/categories/Sevaral-Complex-Variables/Fuchsian-Group/
 http://blueairm.github.io/categories/Miscellanies/
+http://blueairm.github.io/categories/Sevaral-Complex-Variables/Fuchsian-Group/
 http://blueairm.github.io/categories/Commutative-Algebra/
 http://blueairm.github.io/categories/Sevaral-Complex-Variables/Nevanlinna-Theory/
 http://blueairm.github.io/categories/Mathematical-Logic/
